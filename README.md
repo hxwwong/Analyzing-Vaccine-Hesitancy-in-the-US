@@ -1,2 +1,2 @@
 # Analyzing-Vaccine-Hesitancy-in-the-US
-This project uses linear regression, pandas, plotly, seaborn, and other libraries to analyze vaccine hesitancy in the U.S. and determine which have significant relationships with demographic factors.
+This project uses linear regression, pandas, plotly, seaborn, scipy stats and other libraries to analyze vaccine hesitancy in the U.S. and determine which have significant relationships with demographic factors. This was collaborated with Arianne N. Pastrana, Lyka Fernandez, and Russell Lim as a final output for the course DATA100 in partial fulfillment of the requirements for the Data Science Minor in De La Salle University.
